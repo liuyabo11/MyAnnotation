@@ -37,6 +37,8 @@ public class MyAnnotationTest {
 //        }
         System.out.println("通知之结束 +retmsg+" + retmsg);
 
+
+
         Object result = null;
 //        return "xixi";
 //        Object[] args = joinPoint.getArgs();

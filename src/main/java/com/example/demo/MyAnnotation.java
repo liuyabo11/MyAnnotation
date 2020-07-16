@@ -16,5 +16,6 @@ import java.lang.annotation.*;
 @Order(Ordered.HIGHEST_PRECEDENCE)
 public @interface MyAnnotation {
     String value() ;
+
     //String log() default "";
 }
